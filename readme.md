@@ -125,23 +125,63 @@ In this repository you will find all the files of assignments and class work use
     - NFT Storage
 
 ## 15. Scalability Introduction 	
-The scalability trilemma
-Solutions
-Zero Knowledge Proof Rollups
-ZK Rollup Process
-L3 and L4?
-L2 Statistics
-State Channels and Side Chains
-BNB Sidechain
 
-## 16. Solidity Game	https://www.solidityctf.xyz/
+    - The scalability trilemma
+    - Solutions
+    - Zero Knowledge Proof Rollups
+    - ZK Rollup Process
+    - L3 and L4?
+    - L2 Statistics
+    - State Channels and Side Chains
+    - BNB Sidechain
 
+## 16. Solidity Game	
 
-17. DeFi, cont.	Decentralised Exchanges, December 2017 Ether Delta Hack, Uniswap, AMMs, Interacting with Uniswap, Pancake Swap, DeFi Development, 
-18. Upgradability	Upgradability Background, Approaches to Upgradability, Upgradability and Security
-19. Zero Knowledge Proofs	Introductory Maths, Intuitive grasp of Zero Knowledge Proofs, ZKP Use Cases, ZK Proofs in more detail - zkSNARKS, Real Life ZKP choices, Other technology, Using ZKPs
-20. Security	Solidity Specific Exploits, Economic Attacks, Storage Layout, Documentation
-21. Auditing	Audit Process and Reporting, What is an Audit, Audit Companies, Audit Process, Code Freeze, Estimating and price quotes, OWASP, Impact
-22. Further DeFi Topics	Storage Layout, Staking/Farming, MEV, Account Abstraction
-23. Governance	On-chain/Off-chain governance, Binance Governance, Governance Tokens, Optimistic Governance, 
-24. Formal Verification / Review	Tornado Cash, Formal Verification, Solidity SMT Checker, Upcoming Changes, Review
+    - [GAME](https://www.solidityctf.xyz/)
+
+## 17. DeFi, cont.
+
+    - Decentralised Exchanges
+    - December 2017 Ether Delta Hack
+    - Uniswap
+    - AMMs
+    - Interacting with Uniswap
+    - Pancake Swap
+    - DeFi Development
+
+## 18. Upgradability
+
+	- Upgradability Background
+    - Approaches to Upgradability
+    - Upgradability and Security
+
+## 19. Zero Knowledge Proofs
+	
+    - Introductory Maths
+    - Intuitive grasp of Zero Knowledge Proofs
+    - ZKP Use Cases
+    - ZK Proofs in more detail
+    - zkSNARKS
+    - Real Life ZKP choices
+    - Other technology
+    - Using ZKPs
+
+## 20. Security	
+
+Solidity Specific Exploits, Economic Attacks, Storage Layout, Documentation
+
+## 21. Auditing	
+
+Audit Process and Reporting, What is an Audit, Audit Companies, Audit Process, Code Freeze, Estimating and price quotes, OWASP, Impact
+
+## 22. Further DeFi Topics	
+
+Storage Layout, Staking/Farming, MEV, Account Abstraction
+
+## 23. Governance
+
+	On-chain/Off-chain governance, Binance Governance, Governance Tokens, Optimistic Governance, 
+
+## 24. Formal Verification / Review
+
+	Tornado Cash, Formal Verification, Solidity SMT Checker, Upcoming Changes, Review
