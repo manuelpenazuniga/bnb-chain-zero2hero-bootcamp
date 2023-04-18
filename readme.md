@@ -17,8 +17,17 @@ In this repository are all the homework and class work files used in the Bootcam
     - Block Explorers
     - Remix
     - Solidity
-    
-3. Solidity, cont.	Inheritance, Contract Components, Further Datatypes, Interfaces, Fallback and Receive functions, Inputs and errors, Adding other contracts and libraries
+
+3. Solidity, cont.
+	
+    - Inheritance
+    - Contract Components
+    - Further Datatypes
+    - Interfaces
+    - Fallback and Receive functions
+    - Inputs and errors
+    - Adding other contracts and libraries
+
 4. Collections / EVM	Useful Open Source Collections, Ethereum Virtual Machine
 5. Wallets / Transactions / Tokens	Wallets, Transaction Selection and Processing, Token Standards for ETH and BNB, Solidity cont.
 6. NFTs / PolyNetwork Hack	NFTs, ERC721, ERC165, NFT Metadata, NFT Storage, Verifying Contracts
