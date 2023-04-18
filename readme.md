@@ -3,11 +3,12 @@
 In this repository are all the homework and class work files used in the Bootcamp **BNB Chain Zero2Hero**
 
 1. Course Introduction / Blockchain / Cryptography
--Decentralised Systems
--Communication Channels
--Encryption, Hash Functions
--Typical Blockchain components
--Consensus in systems
+
+- Decentralised Systems
+- Communication Channels
+- Encryption, Hash Functions
+- Typical Blockchain components
+- Consensus in systems
 
 2. Introduction to Remix and Solidity	Consensus Mechanisms, BNB Chain, Block Explorers, Remix, Solidity
 3. Solidity, cont.	Inheritance, Contract Components, Further Datatypes, Interfaces, Fallback and Receive functions, Inputs and errors, Adding other contracts and libraries
