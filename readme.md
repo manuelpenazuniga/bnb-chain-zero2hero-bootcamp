@@ -135,9 +135,9 @@ In this repository you will find all the files of assignments and class work use
     - State Channels and Side Chains
     - BNB Sidechain
 
-## 16. Solidity Game	
+ ## 16. Solidity Game	
 
-    - [GAME](https://www.solidityctf.xyz/)
+    - https://www.solidityctf.xyz/
 
 ## 17. DeFi, cont.
 
@@ -168,20 +168,40 @@ In this repository you will find all the files of assignments and class work use
 
 ## 20. Security	
 
-Solidity Specific Exploits, Economic Attacks, Storage Layout, Documentation
+    - Solidity Specific Exploits
+    - Economic Attacks
+    - Storage Layout
+    - Documentation
 
 ## 21. Auditing	
 
-Audit Process and Reporting, What is an Audit, Audit Companies, Audit Process, Code Freeze, Estimating and price quotes, OWASP, Impact
+    - Audit Process and Reporting
+    - What is an Audit
+    - Audit Companies
+    - Audit Process
+    - Code Freeze
+    - Estimating and price quotes
+    - OWASP
+    - Impact
 
 ## 22. Further DeFi Topics	
 
-Storage Layout, Staking/Farming, MEV, Account Abstraction
+    - Storage Layout
+    - Staking/Farming
+    - MEV
+    - Account Abstraction
 
 ## 23. Governance
 
-	On-chain/Off-chain governance, Binance Governance, Governance Tokens, Optimistic Governance, 
+	- On-chain/Off-chain governance
+    - Binance Governance
+    - Governance Tokens
+    - Optimistic Governance 
 
 ## 24. Formal Verification / Review
 
-	Tornado Cash, Formal Verification, Solidity SMT Checker, Upcoming Changes, Review
+	- Tornado Cash
+    - Formal Verification
+    - Solidity SMT Checker
+    - Upcoming Changes
+    - Review
