@@ -5,12 +5,19 @@ In this repository are all the homework and class work files used in the Bootcam
 1. Course Introduction / Blockchain / Cryptography
 
     - Decentralised Systems
-- Communication Channels
-- Encryption, Hash Functions
-- Typical Blockchain components
-- Consensus in systems
+    - Communication Channels
+    - Encryption, Hash Functions
+    - Typical Blockchain components
+    - Consensus in systems
 
-2. Introduction to Remix and Solidity	Consensus Mechanisms, BNB Chain, Block Explorers, Remix, Solidity
+2. Introduction to Remix and Solidity
+
+    - Consensus Mechanisms
+    - BNB Chain
+    - Block Explorers
+    - Remix
+    - Solidity
+    
 3. Solidity, cont.	Inheritance, Contract Components, Further Datatypes, Interfaces, Fallback and Receive functions, Inputs and errors, Adding other contracts and libraries
 4. Collections / EVM	Useful Open Source Collections, Ethereum Virtual Machine
 5. Wallets / Transactions / Tokens	Wallets, Transaction Selection and Processing, Token Standards for ETH and BNB, Solidity cont.
