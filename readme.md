@@ -10,7 +10,7 @@ In this repository you will find all the files of assignments and class work use
     - Typical Blockchain components
     - Consensus in systems
 
-2. Introduction to Remix and Solidity
+## 2. Introduction to Remix and Solidity
 
     - Consensus Mechanisms
     - BNB Chain
@@ -18,7 +18,7 @@ In this repository you will find all the files of assignments and class work use
     - Remix
     - Solidity
 
-3. Solidity, cont.
+## 3. Solidity, cont.
 	
     - Inheritance
     - Contract Components
@@ -28,27 +28,44 @@ In this repository you will find all the files of assignments and class work use
     - Inputs and errors
     - Adding other contracts and libraries
 
-4. Collections / EVM
+## 4. Collections / EVM
+
 	- Useful Open Source Collections
     - Ethereum Virtual Machine
-5. Wallets / Transactions / Tokens
+
+## 5. Wallets / Transactions / Tokens
+
 	- Wallets
     - Transaction Selection and Processing
     - Token Standards for ETH and BNB
     - Solidity cont.
 
-6. NFTs / PolyNetwork Hack
+## 6. NFTs / PolyNetwork Hack
+
 	- NFTs
     - ERC721
     - ERC165
     - NFT Metadata
     - NFT Storage
     - Verifying Contracts
+    - PolyNetwork Hack
 
-PolyNetwork Hack
-7. Security	Security Best Practices, PolyNetwork Hack in detail, Wormhole hack in detail
-8. Development Tools	Introduction, Useful Plugins, Npm Packages, Installing Hardhat, Using Waffle and Ethers, Console Log from within Contracts, Hardhat Network, Forking Networks
-9. Ethers JS / Unit Testing	Connecting to the Ethers network, Signers, Interacting with contracts, Interacting with events, BNB Chain public RPC nodes, Unit Testing in Hardhat
+## 7. Security	
+    - Security Best Practices
+    - PolyNetwork Hack in detail
+    - Wormhole hack in detail
+
+## 8. Development Tools	Introduction
+
+    - Useful Plugins
+    - Npm Packages
+    - Installing Hardhat
+    - Using Waffle and Ethers
+    - Console Log from within Contracts
+    - Hardhat Network
+    - Forking Networks
+
+## 9. Ethers JS / Unit Testing	Connecting to the Ethers network, Signers, Interacting with contracts, Interacting with events, BNB Chain public RPC nodes, Unit Testing in Hardhat
 10. Introduction to DeFi	Areas of DeFi, Exchanges, AMMs, LP Tokens, Borrowing/Lending, Vaults, Composability, History of DeFi, Yam, Governance Tokens, DeFi on Binance
 11. Foundry	Getting started, Dependencies, Deploying Contracts, Debugging in Foundry, Testing, Cheatcodes, Forking, Vanity Addresses
 12. Gas Optimisation	Optimisation Process, Storage, Refunds, Data Types and Packing, Variables, Functions, Loops, Miscellaneous Optimisations, Events, Tools and Measurement, 
