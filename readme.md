@@ -4,7 +4,7 @@ In this repository are all the homework and class work files used in the Bootcam
 
 1. Course Introduction / Blockchain / Cryptography
 
-> - Decentralised Systems
+    - Decentralised Systems
 - Communication Channels
 - Encryption, Hash Functions
 - Typical Blockchain components
