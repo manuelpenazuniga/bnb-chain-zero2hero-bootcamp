@@ -1,6 +1,6 @@
 ## **Bootcamp Material**
 
-In this repository are all the homework and class work files used in the Bootcamp **BNB Chain Zero2Hero**
+In this repository you will find all the files of assignments and class work used in the **BNB Chain Zero2Hero** Bootcamp, organized by [Encode Club](https://www.encode.club/) and presented by [Extropy](https://extropy.io/)
 
 1. Course Introduction / Blockchain / Cryptography
 
