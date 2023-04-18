@@ -65,16 +65,78 @@ In this repository you will find all the files of assignments and class work use
     - Hardhat Network
     - Forking Networks
 
-## 9. Ethers JS / Unit Testing	Connecting to the Ethers network, Signers, Interacting with contracts, Interacting with events, BNB Chain public RPC nodes, Unit Testing in Hardhat
-10. Introduction to DeFi	Areas of DeFi, Exchanges, AMMs, LP Tokens, Borrowing/Lending, Vaults, Composability, History of DeFi, Yam, Governance Tokens, DeFi on Binance
-11. Foundry	Getting started, Dependencies, Deploying Contracts, Debugging in Foundry, Testing, Cheatcodes, Forking, Vanity Addresses
-12. Gas Optimisation	Optimisation Process, Storage, Refunds, Data Types and Packing, Variables, Functions, Loops, Miscellaneous Optimisations, Events, Tools and Measurement, 
-13. Gas Optimisation, cont.	Continuing and reviewing the gas optimisation game
-14. Decentralised Storage	IPFS, BNB Greenfield, Swarm, Filecoin, NFT Storage
-15. Scalability Introduction 	The scalability trilemma, Solutions, Zero Knowledge Proof Rollups, ZK Rollup Process, L3 and L4?, L2 Statistics, State Channels and Side Chains, BNB Sidechain
-16. Solidity Game	https://www.solidityctf.xyz/
+## 9. Ethers JS / Unit Testing
 
-pass: 0xextropy1234
+	- Connecting to the Ethers network
+    - Signers
+    - Interacting with contracts
+    - Interacting with events
+    - BNB Chain public RPC nodes
+    - Unit Testing in Hardhat
+
+## 10. Introduction to DeFi
+
+	- Areas of DeFi
+    - Exchanges
+    - AMMs
+    - LP Tokens
+    - Borrowing/Lending
+    - Vaults
+    - Composability
+    - History of DeFi
+    - Yam
+    - Governance Tokens
+    - DeFi on Binance
+
+## 11. Foundry	
+
+    - Getting started
+    - Dependencies
+    - Deploying Contracts
+    - Debugging in Foundry
+    - Testing
+    - Cheatcodes
+    - Forking
+    - Vanity Addresses
+
+## 12. Gas Optimisation	
+
+    - Optimisation Process
+    - Storage
+    - Refunds
+    - Data Types and Packing
+    - Variables
+    - Functions
+    - Loops
+    - Miscellaneous Optimisations
+    - Events
+    - Tools and Measurement
+
+## 13. Gas Optimisation, cont.	
+
+    - Continuing and reviewing the gas optimisation game
+
+## 14. Decentralised Storage	
+
+    - IPFS
+    - BNB Greenfield
+    - Swarm
+    - Filecoin
+    - NFT Storage
+
+## 15. Scalability Introduction 	
+The scalability trilemma
+Solutions
+Zero Knowledge Proof Rollups
+ZK Rollup Process
+L3 and L4?
+L2 Statistics
+State Channels and Side Chains
+BNB Sidechain
+
+## 16. Solidity Game	https://www.solidityctf.xyz/
+
+
 17. DeFi, cont.	Decentralised Exchanges, December 2017 Ether Delta Hack, Uniswap, AMMs, Interacting with Uniswap, Pancake Swap, DeFi Development, 
 18. Upgradability	Upgradability Background, Approaches to Upgradability, Upgradability and Security
 19. Zero Knowledge Proofs	Introductory Maths, Intuitive grasp of Zero Knowledge Proofs, ZKP Use Cases, ZK Proofs in more detail - zkSNARKS, Real Life ZKP choices, Other technology, Using ZKPs
