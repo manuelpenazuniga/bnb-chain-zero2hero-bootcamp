@@ -28,9 +28,22 @@ In this repository you will find all the files of assignments and class work use
     - Inputs and errors
     - Adding other contracts and libraries
 
-4. Collections / EVM	Useful Open Source Collections, Ethereum Virtual Machine
-5. Wallets / Transactions / Tokens	Wallets, Transaction Selection and Processing, Token Standards for ETH and BNB, Solidity cont.
-6. NFTs / PolyNetwork Hack	NFTs, ERC721, ERC165, NFT Metadata, NFT Storage, Verifying Contracts
+4. Collections / EVM
+	- Useful Open Source Collections
+    - Ethereum Virtual Machine
+5. Wallets / Transactions / Tokens
+	- Wallets
+    - Transaction Selection and Processing
+    - Token Standards for ETH and BNB
+    - Solidity cont.
+
+6. NFTs / PolyNetwork Hack
+	- NFTs
+    - ERC721
+    - ERC165
+    - NFT Metadata
+    - NFT Storage
+    - Verifying Contracts
 
 PolyNetwork Hack
 7. Security	Security Best Practices, PolyNetwork Hack in detail, Wormhole hack in detail
