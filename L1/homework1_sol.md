@@ -34,3 +34,5 @@
 
 
 ### How to allow the correct people to join the game
+
+A smart contract can be implemented that only allows certain users (wallets) to enter. Another more flexible way is to assign an NFT that gives you the right to enter, and everyone who owns that NFT can enter the game, this NFT can be assigned characteristics such as that it is non-transferable or that a limited number of them can be mited .
