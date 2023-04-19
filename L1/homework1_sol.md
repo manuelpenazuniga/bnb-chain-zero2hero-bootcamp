@@ -30,5 +30,7 @@
 
 ### How to decide who should take the next turn
 
+> There are two ways to determine the turn order. On the one hand, if the order is determined by a deterinistic model, this must be specified at the beginning of the game and each player will audit that the public turn allocation process is carried out according to the established rules. On the other hand, if the turn order of each player is determined by a stochastic model, it can be linked to Blockchain Oracles such as Chainlink.
+
 
 ### How to allow the correct people to join the game
