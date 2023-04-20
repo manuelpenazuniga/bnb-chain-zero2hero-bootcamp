@@ -3,7 +3,7 @@
 ## Block Explorer
 
 > Use the main net block explorer to find
-
+>
 > - How many users are holding the pancake swap token 'cake' ?
 > - Approximately, how many unique addresses are there ?
 > - Who validated the first block after the genesis block ?
@@ -18,15 +18,15 @@
 
  Use the main net block explorer to find
 
- - How many users are holding the pancake swap token 'cake' ?
+ ### How many users are holding the pancake swap token 'cake' ?
 
-    The Pancake Swap token 'Cake' currently has 1,348,334 users (addresses), which can be consulted at the following link
-
-    https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
-
-   ![Cake](https://github.com/manuelpenazuniga/bnb-chain-zero2hero-bootcamp/blob/main/L2/img/cake-users.png)
-
-
+>  The Pancake Swap token 'Cake' currently has 1,348,334 users (addresses), which can be consulted at the following [Link](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
+>)
+>
+>  
+> ![Cake](https://github.com/manuelpenazuniga/bnb-chain-zero2hero-bootcamp/blob/main/L2/img/cake-users.png)
+>
+>
  - Approximately, how many unique addresses are there ?
 
 
