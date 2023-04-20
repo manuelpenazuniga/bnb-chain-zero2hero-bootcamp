@@ -24,7 +24,7 @@
 
     `https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82`
 
-   ![Screenshot](/.../img/cake-users.png)
+   ![Cake](https://github.com/manuelpenazuniga/bnb-chain-zero2hero-bootcamp/blob/main/L2/img/cake-users.png)
 
 
 > - Approximately, how many unique addresses are there ?
