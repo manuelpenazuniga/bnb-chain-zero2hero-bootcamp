@@ -16,19 +16,24 @@
 
 ## Solution
 
- **Use the main net block explorer to find**
+ Use the main net block explorer to find
 
  ### How many users are holding the pancake swap token 'cake' ?
 
+>
 >  The Pancake Swap token 'Cake' currently has 1,348,334 users (addresses), which can be consulted at the following [Link](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
 >)
 >
->  
 > ![Cake](https://github.com/manuelpenazuniga/bnb-chain-zero2hero-bootcamp/blob/main/L2/img/cake-users.png)
 >
 >
- - Approximately, how many unique addresses are there ?
 
+
+### Approximately, how many unique addresses are there ?
+> 
+> As of today there are around 288,363,864 unique addresses in BSC. [Link](https://bscscan.com/chart/address)
+
+>![Addresses](https://github.com/manuelpenazuniga/bnb-chain-zero2hero-bootcamp/blob/main/L2/img/unique-addresses.png)
 
 
 
