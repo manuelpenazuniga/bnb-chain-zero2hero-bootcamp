@@ -32,12 +32,19 @@
 ### Approximately, how many unique addresses are there ?
 > 
 > As of today there are around 288,363,864 unique addresses in BSC. [Link](https://bscscan.com/chart/address)
-
+>
 >![Addresses](https://github.com/manuelpenazuniga/bnb-chain-zero2hero-bootcamp/blob/main/L2/img/unique-addresses.png)
 
-
-
  - Who validated the first block after the genesis block ?
+
+> The validator of the first block was Sigm8 [Link](https://bscscan.com/block/1)
+>
+>![Addresses](https://github.com/manuelpenazuniga/bnb-chain-zero2hero-bootcamp/blob/main/L2/img/unique-addresses.png)
+>  
+
+
+
+
  - Roughly how many transactions are pending
  - Which contract is consuming most gas ?
  - How much gas is needed to have a transaction get in a block within 5 - 10 s ?
